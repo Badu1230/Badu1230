@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love the arts, I've worked for more than 10 years as an actress, 3 years as an analyst and I'm passionate about the data area:
+I love the arts, I've worked for more than 10 years as an actress, 7 years as an analyst and I'm passionate about the data area:
 - 🌱 I’m currently studing Big data engineering and data science
 - 👯 I’m looking to collaborate on new data analysis, BI, big data projects
 - 🤔 I’m looking for increasing my knowledges in R, Python, SQL, Power BI, Cloud and machine Learning 
